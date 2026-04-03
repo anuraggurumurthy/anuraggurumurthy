@@ -25,7 +25,7 @@
 # 💻 Tech Stack:
 
 ![Aws](https://img.shields.io/badge/Aamazon_Web_Services-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) 
-![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=flat-square&logo=microsoftazure&logoColor=white) 
+![Azure](https://img.shields.io/badge/Microsoft%Azure-%230072C6.svg?style=flat-square&logo=microsoftazure&logoColor=white) 
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white) 
 ![Oracle](https://img.shields.io/badge/Oracle-F80000.svg?style=flat-square&logo=oracle&logoColor=white)
 
