@@ -1,5 +1,10 @@
 # 💫 About Me:
-👨‍💻 I’m a DevOps Engineer passionate about building reliable, scalable, and automated systems.<br>⚙️ Currently working on streamlining CI/CD pipelines and improving infrastructure efficiency.<br>🤝 Open to collaborating on cloud, automation, and infrastructure projects.<br>📚 Continuously learning and exploring tools in cloud computing, containerization, and system design.<br>💬 Ask me about DevOps, CI/CD, cloud platforms, and performance optimization.<br>⚡ Fun fact: I balance my tech life with fitness and long badminton sessions!
+👨‍💻 I’m a DevOps Engineer passionate about building reliable, scalable, and automated systems.<br>⚙️ 
+Currently working on streamlining CI/CD pipelines and improving infrastructure efficiency.<br>🤝 
+Open to collaborating on cloud, automation, and infrastructure projects.<br>📚 
+Continuously learning and exploring tools in cloud computing, containerization, and system design.<br>💬 
+Ask me about DevOps, CI/CD, cloud platforms, and performance optimization.<br>⚡ 
+Fun fact: I balance my tech life with fitness and long badminton sessions!
 
 
 ## 🌐 Socials:
