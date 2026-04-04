@@ -64,14 +64,6 @@
 [![draw.io](https://img.shields.io/badge/Draw.io-F08705?logo=diagramsdotnet&logoColor=white)]()
 [![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?logo=androidstudio&logoColor=black)]()
 
-[![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)]()
-[![GoDaddy](https://img.shields.io/badge/GoDaddy-1BDBDB?logo=godaddy&logoColor=black)]()
-[![Domain](https://img.shields.io/badge/Domain-232F3E?logo=internetexplorer&logoColor=white)]()
-[![DNS](https://img.shields.io/badge/DNS-4B8BBE?logo=cloudflare&logoColor=white)]()
-[![Caddy](https://img.shields.io/badge/Caddy-1F88C0?logo=caddy&logoColor=white)]()
-[![SSL](https://img.shields.io/badge/SSL-2E8B57?logo=letsencrypt&logoColor=white)]()
-![Oracle](https://img.shields.io/badge/Oracle-F80000.svg?style=flat-square&logo=oracle&logoColor=white)
-
 ![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=flat-square&logo=terraform&logoColor=white) 
 ![Go](https://img.shields.io/badge/GoLang-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white) 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) 
@@ -79,6 +71,14 @@
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/Github-%23121011.svg?style=flat-square&logo=github&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/Github_Actions-%23121011.svg?style=flat-square&logo=github&logoColor=white) 
+
+[![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)]()
+[![GoDaddy](https://img.shields.io/badge/GoDaddy-1BDBDB?logo=godaddy&logoColor=black)]()
+[![Domain](https://img.shields.io/badge/Domain-232F3E?logo=internetexplorer&logoColor=white)]()
+[![DNS](https://img.shields.io/badge/DNS-4B8BBE?logo=cloudflare&logoColor=white)]()
+[![Caddy](https://img.shields.io/badge/Caddy-1F88C0?logo=caddy&logoColor=white)]()
+[![SSL](https://img.shields.io/badge/SSL-2E8B57?logo=letsencrypt&logoColor=white)]()
+![Oracle](https://img.shields.io/badge/Oracle-F80000.svg?style=flat-square&logo=oracle&logoColor=white)
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) 
