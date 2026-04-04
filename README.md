@@ -66,7 +66,7 @@
 ![Boto3](https://img.shields.io/badge/Boto3-3670A0?style=flat-square&logo=python&logoColor=ffdd54) 
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/Github-%23121011.svg?style=flat-square&logo=github&logoColor=white) 
-![GitHub](https://img.shields.io/badge/Github%Actions-%23121011.svg?style=flat-square&logo=github&logoColor=white) 
+![GitHub](https://img.shields.io/badge/Github_Actions-%23121011.svg?style=flat-square&logo=github&logoColor=white) 
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) 
