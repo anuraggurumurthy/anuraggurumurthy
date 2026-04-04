@@ -32,10 +32,11 @@
 [![Amazon CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?logo=amazon-aws&logoColor=white)]()
 [![Amazon SNS](https://img.shields.io/badge/SNS-FF9900?logo=amazon-aws&logoColor=white)]()
 [![Amazon WorkSpaces](https://img.shields.io/badge/WorkSpaces-23009639?logo=amazon-aws&logoColor=white)]()
-[![AWS Amplify](https://img.shields.io/badge/Amplify-%23E60023.svg?logo=aws-amplify&logoColor=white)]()
+[![AWS Amplify](https://img.shields.io/badge/AWS_Amplify-%23E60023.svg?logo=aws-amplify&logoColor=white)]()
 
 [![Amazon AMI](https://img.shields.io/badge/AMI-FF9900?logo=amazon-aws&logoColor=white)]()
 [![Elastic IP](https://img.shields.io/badge/Elastic%20IP-232F3E?logo=amazon-aws&logoColor=white)]()
+[![Volume](https://img.shields.io/badge/Vol-FF4F8B?logo=aws-codepipeline&logoColor=white)]()
 [![Snapshots](https://img.shields.io/badge/Snapshots-527FFF?logo=amazon-aws&logoColor=white)]()
 [![Amazon VPC](https://img.shields.io/badge/VPC-232F3E?logo=amazon-aws&logoColor=white)]()
 [![Security Groups](https://img.shields.io/badge/Security%20Groups-FF4F8B?logo=amazon-aws&logoColor=white)]()
