@@ -2,9 +2,6 @@
   <img src="banner.png" alt="banner" width="100%" height="400px" />
 </p>
 
-## 📄 Resume
-[![Download Resume](https://img.shields.io/badge/Download%20Resume-FF0000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://raw.githubusercontent.com/anuraggurumurthy/anuraggurumurthy/main/resume.pdf)
-
 # #️⃣ About Me:
 ✨ Anurag here,<br>
 👨‍💻 I’m a DevOps Engineer passionate about building reliable, scalable, and automated systems.<br> 
@@ -13,6 +10,7 @@
 📚 Continuously learning and exploring tools in cloud computing, containerization, and system design.<br>
 💬 Ask me about DevOps, CI/CD, cloud platforms, and performance optimization.<br>
 ⚡ Fun fact: I balance my tech life with fitness and long badminton sessions!
+[![Download Resume](https://img.shields.io/badge/Download%20Resume-FF0000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://raw.githubusercontent.com/anuraggurumurthy/anuraggurumurthy/main/resume.pdf)
 
 # 🀄 Socials:
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anuraggurumurthy@gmail.com) 
