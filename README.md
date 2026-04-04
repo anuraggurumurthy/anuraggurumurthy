@@ -56,6 +56,9 @@
 
 [![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)]()
 [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)]()
+[![WinDirStat](https://img.shields.io/badge/WinDirStat-0078D6?logo=windows&logoColor=white)]()
+[![Domain](https://img.shields.io/badge/Domain-232F3E?logo=internetexplorer&logoColor=white)]()
+[![DNS](https://img.shields.io/badge/DNS-4B8BBE?logo=cloudflare&logoColor=white)]()
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-%230072C6.svg?style=flat-square&logo=microsoftazure&logoColor=white) 
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white) 
 ![Oracle](https://img.shields.io/badge/Oracle-F80000.svg?style=flat-square&logo=oracle&logoColor=white)
