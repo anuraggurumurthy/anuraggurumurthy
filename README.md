@@ -46,22 +46,22 @@
 [![AWS ALB](https://img.shields.io/badge/ALB-FF9900?logo=amazon-aws&logoColor=white)]()
 [![Target Groups](https://img.shields.io/badge/Target%20Groups-FF9900?logo=amazon-aws&logoColor=white)]()
 
-[![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)]()
-[![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)]()
+
 
 ![Selenium](https://img.shields.io/badge/-Selenium-%43B02A?style=flat-square&logo=selenium&logoColor=white) 
 [![Selenium Hub](https://img.shields.io/badge/Hub-43B02A?logo=selenium&logoColor=white)]()
 [![Selenium Node](https://img.shields.io/badge/Node-43B02A?logo=selenium&logoColor=white)]()
-![Azure](https://img.shields.io/badge/Microsoft_Azure-%230072C6.svg?style=flat-square&logo=microsoftazure&logoColor=white) 
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white) 
-![Oracle](https://img.shields.io/badge/Oracle-F80000.svg?style=flat-square&logo=oracle&logoColor=white)
 
 ![Apache](https://img.shields.io/badge/Apache-%23D42029.svg?style=flat-square&logo=apache&logoColor=white) 
-![Apache Tomcat](https://img.shields.io/badge/Apache%20tomcat-%23F8DC75.svg?style=flat-square&logo=apache-tomcat&logoColor=black) 
-![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=flat-square&logo=Apache%20Maven&logoColor=white)
+![Apache Tomcat](https://img.shields.io/badge/tomcat-%23F8DC75.svg?style=flat-square&logo=apache-tomcat&logoColor=black) 
+![Apache Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=Apache%20Maven&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat-square&logo=npm&logoColor=white) 
 ![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=flat-square&logo=nginx&logoColor=white) 
 ![Yarn](https://img.shields.io/badge/Yarn-%232C8EBB.svg?style=flat-square&logo=yarn&logoColor=white) 
+
+![Azure](https://img.shields.io/badge/Microsoft_Azure-%230072C6.svg?style=flat-square&logo=microsoftazure&logoColor=white) 
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white) 
+![Oracle](https://img.shields.io/badge/Oracle-F80000.svg?style=flat-square&logo=oracle&logoColor=white)
 
 ![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=flat-square&logo=terraform&logoColor=white) 
 ![Go](https://img.shields.io/badge/GoLang-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white) 
@@ -83,6 +83,8 @@
 [![Windows Exporter](https://img.shields.io/badge/Windows%20Exporter-4B8BBE?logo=windows&logoColor=white)]()
 ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat-square&logo=firefox&logoColor=#FF7139)
 
+[![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)]()
+[![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)]()
 
 ## 💰 Payments
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/anuraganu) 
