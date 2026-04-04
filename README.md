@@ -10,6 +10,7 @@
 📚 Continuously learning and exploring tools in cloud computing, containerization, and system design.<br>
 💬 Ask me about DevOps, CI/CD, cloud platforms, and performance optimization.<br>
 ⚡ Fun fact: I balance my tech life with fitness and long badminton sessions!
+
 [![Download Resume](https://img.shields.io/badge/Download%20Resume-FF0000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://raw.githubusercontent.com/anuraggurumurthy/anuraggurumurthy/main/resume.pdf)
 
 # 🀄 Socials:
