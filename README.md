@@ -2,6 +2,9 @@
   <img src="banner.png" alt="banner" width="100%" height="400px" />
 </p>
 
+## 📄 Resume
+[![Download Resume](https://img.shields.io/badge/Download%20Resume-FF0000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://raw.githubusercontent.com/anuraggurumurthy/anuraggurumurthy/main/resume.pdf)
+
 # #️⃣ About Me:
 ✨ Anurag here,<br>
 👨‍💻 I’m a DevOps Engineer passionate about building reliable, scalable, and automated systems.<br> 
