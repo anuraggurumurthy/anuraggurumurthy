@@ -20,7 +20,7 @@
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Anurag_anu98) 
 ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat-square&logo=firefox&logoColor=#FF7139)
 
-# 💻 Tech Stack:
+# 👨🏻‍💻 Tech Stack:
 
 ![Aws](https://img.shields.io/badge/Aamazon_Web_Services-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) 
 [![Amazon EC2](https://img.shields.io/badge/EC2-FF9900?logo=amazon-aws&logoColor=white)]()
