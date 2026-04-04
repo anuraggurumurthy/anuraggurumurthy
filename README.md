@@ -1,4 +1,5 @@
-# ✨ About Me:
+# #️⃣ About Me:
+✨ Anurag G
 👨‍💻 I’m a DevOps Engineer passionate about building reliable, scalable, and automated systems.<br> 
 ⚙️ Currently working on streamlining CI/CD pipelines and improving infrastructure efficiency.<br>
 🤝 Open to collaborating on cloud, automation, and infrastructure projects.<br>
