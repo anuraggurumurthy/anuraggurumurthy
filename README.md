@@ -32,7 +32,7 @@
 [![Amazon CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?logo=amazon-aws&logoColor=white)]()
 [![Amazon SNS](https://img.shields.io/badge/SNS-FF9900?logo=amazon-aws&logoColor=white)]()
 [![Amazon WorkSpaces](https://img.shields.io/badge/WorkSpaces-23009639?logo=amazon-aws&logoColor=white)]()
-[![AWS Amplify](https://img.shields.io/badge/Amplify-FF9900?logo=aws-amplify&logoColor=white)]()
+[![AWS Amplify](https://img.shields.io/badge/Amplify-23E60023?logo=aws-amplify&logoColor=white)]()
 
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-%230072C6.svg?style=flat-square&logo=microsoftazure&logoColor=white) 
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white) 
