@@ -43,15 +43,15 @@
 [![Subnet](https://img.shields.io/badge/Subnet-4B8BBE?logo=amazon-aws&logoColor=white)]()
 [![NAT Gateway](https://img.shields.io/badge/NAT%20Gateway-FF9900?logo=amazon-aws&logoColor=white)]()
 [![AWS CodePipeline](https://img.shields.io/badge/CodePipeline-FF4F8B?logo=aws-codepipeline&logoColor=white)]()
-[![AWS ALB](https://img.shields.io/badge/Application%20Load%20Balancer-FF9900?logo=amazon-aws&logoColor=white)]()
+[![AWS ALB](https://img.shields.io/badge/ALB-FF9900?logo=amazon-aws&logoColor=white)]()
 [![Target Groups](https://img.shields.io/badge/Target%20Groups-FF9900?logo=amazon-aws&logoColor=white)]()
 
 [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)]()
 [![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)]()
 
 ![Selenium](https://img.shields.io/badge/-Selenium-%43B02A?style=flat-square&logo=selenium&logoColor=white) 
-[![Selenium Hub](https://img.shields.io/badge/Selenium%20Hub-43B02A?logo=selenium&logoColor=white)]()
-[![Selenium Node](https://img.shields.io/badge/Selenium%20Node-43B02A?logo=selenium&logoColor=white)]()
+[![Selenium Hub](https://img.shields.io/badge/Hub-43B02A?logo=selenium&logoColor=white)]()
+[![Selenium Node](https://img.shields.io/badge/Node-43B02A?logo=selenium&logoColor=white)]()
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-%230072C6.svg?style=flat-square&logo=microsoftazure&logoColor=white) 
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white) 
 ![Oracle](https://img.shields.io/badge/Oracle-F80000.svg?style=flat-square&logo=oracle&logoColor=white)
