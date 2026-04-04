@@ -35,10 +35,10 @@
 [![Amazon WorkSpaces](https://img.shields.io/badge/WorkSpaces-23009639?logo=amazon-aws&logoColor=white)]()
 [![AWS Amplify](https://img.shields.io/badge/Amplify-%23E60023.svg?logo=aws-amplify&logoColor=white)]()
 
-[![Amazon AMI](https://img.shields.io/badge/Amazon%20AMI-FF9900?logo=amazon-aws&logoColor=white)]()
+[![Amazon AMI](https://img.shields.io/badge/AMI-FF9900?logo=amazon-aws&logoColor=white)]()
 [![Elastic IP](https://img.shields.io/badge/Elastic%20IP-232F3E?logo=amazon-aws&logoColor=white)]()
 [![Snapshots](https://img.shields.io/badge/Snapshots-527FFF?logo=amazon-aws&logoColor=white)]()
-[![Amazon VPC](https://img.shields.io/badge/Amazon%20VPC-232F3E?logo=amazon-aws&logoColor=white)]()
+[![Amazon VPC](https://img.shields.io/badge/VPC-232F3E?logo=amazon-aws&logoColor=white)]()
 [![Subnet](https://img.shields.io/badge/Subnet-4B8BBE?logo=amazon-aws&logoColor=white)]()
 [![NAT Gateway](https://img.shields.io/badge/NAT%20Gateway-FF9900?logo=amazon-aws&logoColor=white)]()
 [![AWS CodePipeline](https://img.shields.io/badge/CodePipeline-FF4F8B?logo=aws-codepipeline&logoColor=white)]()
