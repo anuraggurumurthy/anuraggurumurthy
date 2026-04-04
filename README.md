@@ -61,6 +61,7 @@
 [![TeamViewer](https://img.shields.io/badge/TeamViewer-0E8EE9?logo=teamviewer&logoColor=white)]()
 [![Ngrok](https://img.shields.io/badge/Ngrok-1F1E37?logo=ngrok&logoColor=white)]()
 [![draw.io](https://img.shields.io/badge/Draw.io-F08705?logo=diagramsdotnet&logoColor=white)]()
+[![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?logo=androidstudio&logoColor=black)]()
 
 [![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)]()
 [![GoDaddy](https://img.shields.io/badge/GoDaddy-1BDBDB?logo=godaddy&logoColor=black)]()
@@ -79,7 +80,6 @@
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/Github-%23121011.svg?style=flat-square&logo=github&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/Github_Actions-%23121011.svg?style=flat-square&logo=github&logoColor=white) 
-[![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?logo=androidstudio&logoColor=black)]()
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) 
