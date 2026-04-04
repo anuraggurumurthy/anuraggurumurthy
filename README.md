@@ -26,6 +26,13 @@
 
 ![Aws](https://img.shields.io/badge/Aamazon_Web_Services-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) 
 [![Amazon EC2](https://img.shields.io/badge/Amazon%20EC2-FF9900?logo=amazon-aws&logoColor=white)]()
+[![Amazon S3](https://img.shields.io/badge/Amazon%20S3-569A31?logo=amazon-s3&logoColor=white)]()
+[![AWS IAM](https://img.shields.io/badge/AWS%20IAM-DD344C?logo=amazon-aws&logoColor=white)]()
+[![Amazon EventBridge](https://img.shields.io/badge/EventBridge-FF4F8B?logo=amazon-aws&logoColor=white)]()
+[![Amazon CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?logo=amazon-aws&logoColor=white)]()
+[![Amazon SNS](https://img.shields.io/badge/Amazon%20SNS-FF9900?logo=amazon-aws&logoColor=white)]()
+[![Amazon WorkSpaces](https://img.shields.io/badge/WorkSpaces-232F3E?logo=amazon-aws&logoColor=white)]()
+[![AWS Amplify](https://img.shields.io/badge/AWS%20Amplify-FF9900?logo=aws-amplify&logoColor=white)]()
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-%230072C6.svg?style=flat-square&logo=microsoftazure&logoColor=white) 
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white) 
 ![Oracle](https://img.shields.io/badge/Oracle-F80000.svg?style=flat-square&logo=oracle&logoColor=white)
