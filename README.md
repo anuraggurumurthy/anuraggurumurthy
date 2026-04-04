@@ -2,7 +2,7 @@
   <img src="banner.png" alt="banner" width="100%" height="400px" />
 </p>
 
-# #️⃣ About Me:
+# #️⃣ Whoami:
 ✨ Anurag here,<br>
 👨‍💻 I’m a DevOps Engineer passionate about building reliable, scalable, and automated systems.<br> 
 ⚙️ Currently working on streamlining CI/CD pipelines and improving infrastructure efficiency.<br>
