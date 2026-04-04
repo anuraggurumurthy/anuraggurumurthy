@@ -8,6 +8,7 @@
 
 ## 🌐 Socials:
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anuraggurumurthy@gmail.com) 
+[![Zoho](https://img.shields.io/badge/Zoho-C8202F?logo=zoho&logoColor=white)]()
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anuraggurumurthy) 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/anuraggurumurthy) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anuraggurumurthy) 
@@ -57,8 +58,16 @@
 [![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)]()
 [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)]()
 [![WinDirStat](https://img.shields.io/badge/WinDirStat-0078D6?logo=windows&logoColor=white)]()
+[![TeamViewer](https://img.shields.io/badge/TeamViewer-0E8EE9?logo=teamviewer&logoColor=white)]()
+[![Ngrok](https://img.shields.io/badge/Ngrok-1F1E37?logo=ngrok&logoColor=white)]()
+[![draw.io](https://img.shields.io/badge/draw.io-F08705?logo=diagramsdotnet&logoColor=white)]()
+
+[![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)]()
+[![GoDaddy](https://img.shields.io/badge/GoDaddy-1BDBDB?logo=godaddy&logoColor=black)]()
 [![Domain](https://img.shields.io/badge/Domain-232F3E?logo=internetexplorer&logoColor=white)]()
 [![DNS](https://img.shields.io/badge/DNS-4B8BBE?logo=cloudflare&logoColor=white)]()
+[![Caddy](https://img.shields.io/badge/Caddy-1F88C0?logo=caddy&logoColor=white)]()
+[![SSL](https://img.shields.io/badge/SSL/TLS-2E8B57?logo=letsencrypt&logoColor=white)]()
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-%230072C6.svg?style=flat-square&logo=microsoftazure&logoColor=white) 
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white) 
 ![Oracle](https://img.shields.io/badge/Oracle-F80000.svg?style=flat-square&logo=oracle&logoColor=white)
@@ -70,6 +79,7 @@
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/Github-%23121011.svg?style=flat-square&logo=github&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/Github_Actions-%23121011.svg?style=flat-square&logo=github&logoColor=white) 
+[![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?logo=androidstudio&logoColor=black)]()
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) 
