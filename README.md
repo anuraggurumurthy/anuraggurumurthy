@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png" alt="banner" width="100%" />
+</p>
+
 # #️⃣ About Me:
 ✨ Anurag here,<br>
 👨‍💻 I’m a DevOps Engineer passionate about building reliable, scalable, and automated systems.<br> 
