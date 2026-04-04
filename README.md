@@ -29,7 +29,7 @@
 [![Amazon S3](https://img.shields.io/badge/S3-569A31?logo=amazon-s3&logoColor=white)]()
 [![AWS IAM](https://img.shields.io/badge/IAM-DD344C?logo=amazon-aws&logoColor=white)]()
 [![Amazon EventBridge](https://img.shields.io/badge/EventBridge-FF4F8B?logo=amazon-aws&logoColor=white)]()
-[![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?logo=aws-lambda&logoColor=white)]()
+[![AWS Lambda](https://img.shields.io/badge/Lambda-FF9900?logo=aws-lambda&logoColor=white)]()
 [![Amazon CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?logo=amazon-aws&logoColor=white)]()
 [![Amazon SNS](https://img.shields.io/badge/SNS-FF9900?logo=amazon-aws&logoColor=white)]()
 [![Amazon WorkSpaces](https://img.shields.io/badge/WorkSpaces-23009639?logo=amazon-aws&logoColor=white)]()
@@ -73,15 +73,6 @@
 ![Grafana](https://img.shields.io/badge/Grafana-%23F46800.svg?style=flat-square&logo=grafana&logoColor=white) 
 ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat-square&logo=firefox&logoColor=#FF7139)
 ![Selenium](https://img.shields.io/badge/-Selenium-%43B02A?style=flat-square&logo=selenium&logoColor=white) 
-
-![Steam](https://img.shields.io/badge/Steam-%23000000.svg?style=flat-square&logo=steam&logoColor=white) 
-![Riot Games](https://img.shields.io/badge/Riotgames-D32936.svg?style=flat-square&logo=riotgames&logoColor=white) 
-![Epic Games](https://img.shields.io/badge/Epicgames-%23313131.svg?style=flat-square&logo=epicgames&logoColor=white)
-![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900svg?style=flat-square&logo=nVIDIA&logoColor=white)
-
-![Adobe](https://img.shields.io/badge/Adobe-%23FF0000.svg?style=flat-square&logo=adobe&logoColor=white) 
-![Adobe Photoshop](https://img.shields.io/badge/Adobe%20photoshop-%2331A8FF.svg?style=flat-square&logo=adobe%20photoshop&logoColor=white) 
-![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat-square&logo=Adobe%20Premiere%20Pro&logoColor=white)
 
 ## 💰 Payments
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/anuraganu) 
