@@ -23,7 +23,7 @@
 
 # 👨🏻‍💻 Tech Stack:
 
-![Aws](https://img.shields.io/badge/Aamazon_Web_Services-%F08705.svg?style=flat-square&logo=amazon-aws&logoColor=white) 
+![Aws](https://img.shields.io/badge/Aamazon_Web_Service-F08705?style=flat-square&logo=amazon-aws&logoColor=white) 
 [![Amazon EC2](https://img.shields.io/badge/EC2-FF9900?logo=amazon-aws&logoColor=white)]()
 [![Amazon S3](https://img.shields.io/badge/S3-569A31?logo=amazon-s3&logoColor=white)]()
 [![AWS IAM](https://img.shields.io/badge/IAM-DD344C?logo=amazon-aws&logoColor=white)]()
