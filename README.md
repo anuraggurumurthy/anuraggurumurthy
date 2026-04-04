@@ -90,7 +90,7 @@
 ![Grafana](https://img.shields.io/badge/Grafana-%23F46800.svg?style=flat-square&logo=grafana&logoColor=white) 
 [![Windows Exporter](https://img.shields.io/badge/Windows%20Exporter-4B8BBE?logo=windows&logoColor=white)]()
 
-## 💰 Payments
+# 💰 Payments:
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/anuraganu) 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
