@@ -7,7 +7,7 @@
 💬 Ask me about DevOps, CI/CD, cloud platforms, and performance optimization.<br>
 ⚡ Fun fact: I balance my tech life with fitness and long badminton sessions!
 
-## 🌐 Socials:
+# 🀄 Socials:
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anuraggurumurthy@gmail.com) 
 [![Zoho](https://img.shields.io/badge/Zoho-C8202F?logo=zoho&logoColor=white)]()
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anuraggurumurthy) 
