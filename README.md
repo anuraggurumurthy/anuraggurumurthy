@@ -11,7 +11,7 @@
 💬 Ask me about DevOps, CI/CD, cloud platforms, and performance optimization.<br>
 ⚡ Fun fact: I balance my tech life with fitness and long badminton sessions!
 
-[![Resume here!](https://img.shields.io/badge/%20Resume_here!-%23E60023.svg?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://raw.githubusercontent.com/anuraggurumurthy/anuraggurumurthy/main/resume.pdf)
+[![Resume here!](https://img.shields.io/badge/%20Resume_here!-%23E60023.svg?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://raw.githubusercontent.com/anuraggurumurthy/anuraggurumurthy/main/Anurag Resume.pdf)
 
 # 🀄 Socials:
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anuraggurumurthy@gmail.com) 
